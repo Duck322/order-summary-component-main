@@ -107,6 +107,7 @@ button {
 
 button:hover {
   background-color: var(--light-blue);
+  cursor: pointer;
 }
 
 .cancel {
